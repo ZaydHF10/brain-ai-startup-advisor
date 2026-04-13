@@ -1,3 +1,4 @@
+
 # AstroPreneur — Multi-Agent Streamlit App
 
 ## Overview
@@ -13,4 +14,5 @@ This app integrates three local AI agents (Business/Financial, Marketing, Market
 ## Notes
 - The agents call Google Gemini APIs. Ensure API key and quota available.
 - For heavy workloads (large models / GPU), consider hosting agents as microservices.
+
 
